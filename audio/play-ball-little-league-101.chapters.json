@@ -1,0 +1,49 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Play Ball!"
+    },
+    {
+      "startTime": 150.9,
+      "title": "The Big Idea: Hit, Run, Come Home"
+    },
+    {
+      "startTime": 286.8,
+      "title": "The Duel: Strikes, Balls, and Walks"
+    },
+    {
+      "startTime": 497.8,
+      "title": "Three Ways to Get You Out"
+    },
+    {
+      "startTime": 655.0,
+      "title": "The Nine Positions"
+    },
+    {
+      "startTime": 760.6,
+      "title": "Where Baseball Came From"
+    },
+    {
+      "startTime": 859.8,
+      "title": "Babe Ruth and Jackie Robinson"
+    },
+    {
+      "startTime": 997.6,
+      "title": "Little League and Jumbo Pretzel"
+    },
+    {
+      "startTime": 1095.0,
+      "title": "Traditions, Rally Caps, and Magic Mud"
+    },
+    {
+      "startTime": 1305.9,
+      "title": "Rochester, Baseball Town"
+    },
+    {
+      "startTime": 1498.9,
+      "title": "Coach Anna's Four Tips"
+    }
+  ]
+}
