@@ -33,5 +33,18 @@
       <itunes:duration>00:26:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ep 2: Chalk, Cartwheels, and You: Welcome to Gymnastics</title>
+      <itunes:title>Chalk, Cartwheels, and You: Welcome to Gymnastics</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Just started gymnastics? Anna and Magnus zoom out on the whole 2,000-year-old sport a brand-new gymnast just stepped into - the four events, a perfect 10 that broke the scoreboard, and how forward rolls and a low beam ARE the real thing.</description>
+      <itunes:summary>Just started gymnastics? Anna and Magnus zoom out on the whole 2,000-year-old sport a brand-new gymnast just stepped into - the four events, a perfect 10 that broke the scoreboard, and how forward rolls and a low beam ARE the real thing.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/zrecko-family-podcast/audio/chalk-cartwheels-and-you-welcome-to-gymnastics.mp3" length="14251316" type="audio/mpeg"/>
+      <guid isPermaLink="false">zrecko-ep02</guid>
+      <pubDate>Wed, 15 Jul 2026 14:05:26 +0000</pubDate>
+      <itunes:duration>00:19:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

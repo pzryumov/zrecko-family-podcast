@@ -12,5 +12,6 @@ Paste this feed URL into Apple Podcasts, Overcast, or any podcast app
 ## Episodes
 
 - **Ep 1: Play Ball! How Baseball Works** - Baseball explained for a brand-new Little Leaguer: the diamond, the pitcher-batter duel, getting out and getting home - plus Babe Ruth, Jackie Robinson, magic mud, and Rochester's own Red Wings.
+- **Ep 2: Chalk, Cartwheels, and You: Welcome to Gymnastics** - Just started gymnastics? Anna and Magnus zoom out on the whole 2,000-year-old sport a brand-new gymnast just stepped into - the four events, a perfect 10 that broke the scoreboard, and how forward rolls and a low beam ARE the real thing.
 
 Hosts: Anna and Magnus.
